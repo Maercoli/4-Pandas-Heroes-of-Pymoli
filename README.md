@@ -1,6 +1,6 @@
 # Pandas, Pandas, Pandas
 
-## Backgroung: Heroes of Pymoli
+## Background: Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
