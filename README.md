@@ -1,6 +1,6 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas, Pandas, Pandas
 
-## Option 1: Heroes of Pymoli
+## Backgroung: Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
