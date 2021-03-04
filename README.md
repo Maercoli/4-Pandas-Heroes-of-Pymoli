@@ -79,6 +79,6 @@ You can found the code for this data analysis inside the folder "HeroesOfPymoli"
 Feel free to reach out to me, if you have any questions.
 
 ### Marina Ercoli
-E-mail: maercoli@hotmail.com
+E-mail: maercoli2017@gmail.com
 
 
